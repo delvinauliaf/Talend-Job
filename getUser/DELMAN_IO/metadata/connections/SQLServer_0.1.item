@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_4rf3sBo8Eey7N5CriDgTbg" name="SQLServer" id="_xIy7QBo8Eey7N5CriDgTbg" label="SQLServer" dataPackage="_9HV-oBpBEey7N5CriDgTbg" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/delman_io;" dbVersionString="JTDS" Port="1433" Username="sa" Password="xZt0ecKL2RI=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="delman_io" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_4vHzcBo8Eey7N5CriDgTbg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_5U3k0Bo8Eey7N5CriDgTbg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_5WLzcBo8Eey7N5CriDgTbg" tag="Status" value=""/>
+    <taggedValue xmi:id="_5WLzcRo8Eey7N5CriDgTbg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_5WLzcho8Eey7N5CriDgTbg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_5WLzcxo8Eey7N5CriDgTbg" tag="Description" value=""/>
+    <taggedValue xmi:id="_5WLzdBo8Eey7N5CriDgTbg" tag="Author" value=""/>
+    <taggedValue xmi:id="_5WLzdRo8Eey7N5CriDgTbg" tag="otherParameter"/>
+    <taggedValue xmi:id="_5Ys78Bo8Eey7N5CriDgTbg" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_5Ys78Ro8Eey7N5CriDgTbg" tag="DB ProductVersion" value="15.00.2000"/>
+    <taggedValue xmi:id="_5Ys78ho8Eey7N5CriDgTbg" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_4vHzcRo8Eey7N5CriDgTbg" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+    <parameters xmi:id="_7w03oBpBEey7N5CriDgTbg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_9HV-oBpBEey7N5CriDgTbg" name="delman_io" dataManager="_4rf3sBo8Eey7N5CriDgTbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-oRpBEey7N5CriDgTbg" name="db_accessadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-ohpBEey7N5CriDgTbg" name="db_backupoperator"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-oxpBEey7N5CriDgTbg" name="db_datareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-pBpBEey7N5CriDgTbg" name="db_datawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-pRpBEey7N5CriDgTbg" name="db_ddladmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-phpBEey7N5CriDgTbg" name="db_denydatareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-pxpBEey7N5CriDgTbg" name="db_denydatawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-qBpBEey7N5CriDgTbg" name="db_owner"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-qRpBEey7N5CriDgTbg" name="db_securityadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-qhpBEey7N5CriDgTbg" name="dbo"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-qxpBEey7N5CriDgTbg" name="guest"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-rBpBEey7N5CriDgTbg" name="INFORMATION_SCHEMA"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_9HV-rRpBEey7N5CriDgTbg" name="sys"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
