@@ -1,0 +1,11 @@
+name,handphone,place_of_birth,date_of_birth
+Lisa,085566661234,Seoul,2000-07-12
+Jennie,089877774567,Merangin,07-08-2001
+Rose,083356768888,Mojokerto,1999-05-02
+Jiso,087655556876,Sikka,1998-09-09
+Wendy,9218686232392387,Sumedang,1995-08-09
+Joy,086534792,New York,1999-02-03
+Irene,,Tasikmalaya,1992-12-15
+Jiso,087655556876,Malang,1997-07-07
+Seulgi,082266784467,Wakatobi,2000-02-02
+Yeri,085672223344,Morowali Utara,2004-09-20

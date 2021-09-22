@@ -1,0 +1,5 @@
+name,handphone,place_of_birth,date_of_birth
+Brad,082387679999,Klaten,2000-05-05
+Boby,085967578888,Malaka,2001-12-12
+Pete,089976873243,Malang,1994-03-23
+Noah,085544442222,Tebo,1999-02-23
