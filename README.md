@@ -51,8 +51,10 @@ Next, the data joined with master_kabupaten. If place_of_birth existed in master
 
 # Final Result
 tbl_users
+
 ![image](https://user-images.githubusercontent.com/90134591/134436716-24f49d20-c992-4452-a91d-22ff91b1d53d.png)
 
 Logs
+
 ![image](https://user-images.githubusercontent.com/90134591/134436771-f81b42a9-39a7-41b4-bc68-4dfdd09814f7.png)
 
